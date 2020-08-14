@@ -1,5 +1,8 @@
 ---
+layout: post
 title: Tareas de la Clase I
+tags: Calculo 
+stickie: true
 ---
 
 ## Tareas de la clase del 27 de julio de 2020

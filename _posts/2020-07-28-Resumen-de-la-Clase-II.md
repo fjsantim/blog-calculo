@@ -1,5 +1,8 @@
 ---
+layout: post
 title: Resumen de la Clase II
+tags: Calculo 
+stickie: true
 ---
 
 ## Apuntes de la clase del 28 de julio de 2020

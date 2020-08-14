@@ -1,5 +1,8 @@
 ---
+layout: post
 title: Resumen de la Clase IV
+tags: Calculo 
+stickie: true
 ---
 
 ## Apuntes de la clase del 30 de julio de 2020

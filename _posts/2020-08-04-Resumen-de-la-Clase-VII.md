@@ -1,5 +1,8 @@
 ---
+layout: post
 title: Resumen de la Clase VII
+tags: Calculo 
+stickie: true
 ---
 
 ## Apuntes de la clase del 4 de agosto de 2020

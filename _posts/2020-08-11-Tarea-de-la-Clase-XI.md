@@ -1,5 +1,8 @@
 ---
-title: Tarea de la Clase XI
+layout: post
+title: Tareas de la Clase XI
+tags: Calculo
+stickie: true
 ---
 
 ## Tarea de la clase del 10 de agosto de 2020

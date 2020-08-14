@@ -1,5 +1,8 @@
 ---
+layout: post
 title: Tareas de la Clase X
+tags: Calculo
+stickie: true
 ---
 
 ## Tareas de la clase del 7 de agosto de 2020
