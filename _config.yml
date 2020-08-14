@@ -28,6 +28,8 @@ hydrogen-blog:
 #MathJax switch
 MathJax: true
 
+markdown: kramdown
+
 #install emoji
 plugins:
   - jemoji
